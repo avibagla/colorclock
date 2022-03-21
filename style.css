@@ -22,7 +22,7 @@
 
 #clock-container {
   display: inline-grid;
-  height: 200px;
+  height: 125px;
   grid-template-columns: repeat(14, 1fr);
   width: 100%;
 /*   border-style: solid; */
